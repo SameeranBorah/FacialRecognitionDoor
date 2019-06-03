@@ -10,8 +10,6 @@ With the introduction of Microsoft's Project Oxford, facial recognition applicat
 - Run the git clone command:  
   ```git clone https://github.com/ms-iot/Facial-Recognition-Door.git```  
 
-The step-by-step instruction for building this project can be found on https://microsoft.hackster.io/en-US/windows-iot/windows-iot-facial-recognition-door-e087ce
-
 
 ===
 
